@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Notebooks temporales
+.ipynb_checkpoints/
+
+# Archivos grandes o sensibles (opcional)
+*.pkl
+*.csv
